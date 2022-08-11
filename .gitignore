@@ -1,0 +1,5 @@
+/.idea
+/model/small_model/
+/model/vosk-model-ru-0.22/
+/__pycache__/
+/rnnlm/
